@@ -1,0 +1,11 @@
+names:
+- Grasper
+- Bipolar
+- Hook
+- Scissors
+- Clipper
+- Irrigator
+- SpecimenBag
+nc: 7
+train: dataset/train.txt
+val: dataset/test.txt
